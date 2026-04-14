@@ -1,0 +1,10 @@
+{
+  "name": "shopzilla",
+  "version": "1.0.0",
+  "description": "ShopZilla is a modern e-commerce platform with a bold black, white, and orange design. It offers a seamless shopping experience across all categories, from electronics to fashion.",
+  "main": "index.html",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
